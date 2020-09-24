@@ -1,0 +1,17 @@
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\bin\Debug\RTSerialCom.exe
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\bin\Debug\RTSerialCom.pdb
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.Properties.Resources.resources
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.exe
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.pdb
+c:\users\roofman\documents\visual studio 2010\Projects\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.Form1.resources
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.exe
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.pdb
+F:\_Source\_c#\RTSerialCom\RTSerialCom\bin\Debug\RTSerialCom.exe
+F:\_Source\_c#\RTSerialCom\RTSerialCom\bin\Debug\RTSerialCom.pdb
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.Form1.resources
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.Properties.Resources.resources
+F:\_Source\_c#\RTSerialCom\RTSerialCom\obj\x86\Debug\RTSerialCom.csproj.GenerateResource.Cache
